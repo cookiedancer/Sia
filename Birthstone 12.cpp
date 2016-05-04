@@ -88,7 +88,7 @@ int main()
         cin.ignore();
         ans = toupper(ans);
     }
- while(ans == 'Y' || ans == 'y'); //This is a loop statement so the program can repeat its code as much as the user wants
+ while(ans == 'Y'); //This is a loop statement so the program can repeat its code as much as the user wants
      cout << " Thanks! If you love your birthstone go to https://www.etsy.com/market/birthstone_jewelry to adorn yourself!  \n";
      return 0;
 } //end
